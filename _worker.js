@@ -66,7 +66,7 @@ let fakeHostName;
 // Subscription and conversion details
 let subProtocol = 'https';
 let subConverter = 'url.v1.mk'; // Subscription conversion backend using Sheep's function
-let subConfig = "https://raw.githubusercontent.com/amclubs/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"; // Subscription profile
+let subConfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini"; // Subscription profile
 let fileName = 'youtube.com/@am_club';
 let isBase64 = true;
 
